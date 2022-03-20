@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    
+}
+
+.logo{
+    border-radius: 50%;
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+}
+
+.bg {
+    background-image: url(img/bg.png);
+    background-position: center center;
+    width: 500px;
+    height: 574px;
+}
